@@ -1,0 +1,2 @@
+include ':app', ':andnext_markdown'
+rootProject.name = "My Application"

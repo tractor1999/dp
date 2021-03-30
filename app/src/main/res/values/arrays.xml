@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sensor">
+        <item>加速度计 单位：m/s²</item>
+        <item>陀螺仪 单位：rad/s</item>
+        <item>磁力计 单位：uT</item>
+    </string-array>
+    <string-array name="frequency">
+        <item>1Hz</item>
+        <item>2Hz</item>
+        <item>5Hz</item>
+        <item>10Hz</item>
+        <item>20Hz</item>
+        <item>50Hz</item>
+        <item>75Hz</item>
+        <item>100Hz</item>
+        <item>200Hz</item>
+        <item>250Hz</item>
+        <item>500Hz</item>
+    </string-array>
+</resources>
